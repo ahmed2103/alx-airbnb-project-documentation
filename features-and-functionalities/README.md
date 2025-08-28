@@ -1,3 +1,3 @@
-# Image
+# Embedded Image
 
-![My Image](https://drive.google.com/uc?export=view&id=1lBNjDCGhHHq4x_BU_tJ2gDIMENyoV2ys)
+![Embedded Image](https://drive.google.com/uc?export=view&id=1Seu2i29m-cTW5vF4ub-OW04vNyn-Q9QZ)
